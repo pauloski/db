@@ -1,0 +1,69 @@
+{  
+    "banner":[  
+       {  
+          "title":"Te guiamos para que hagas realidad tu proyecto de baño",
+          "typeBlock":"BlockA",
+          "modules":[  
+             {  
+                "title":"Extractores de aire para purificar tu baño",
+                "description":"¿Cómo instalar un extractor en tu hogar?",
+                "imageDesktop":"01.png",
+                "url":"http://www.sodimac.cl/sodimac-cl/content/a120004/-Como-elegir-Extractores-De-Aire-?sTerm=extracto&sType=content&sScenario=BTP_CONT_%BFC%F3mo%20elegir%20Extractores%20De%20Aire?",
+                "textLink":"Conoce más",
+                "type":"A"
+             },
+             {  
+                "title":"Barras de seguridad para el baño de tu hogar",
+                "description":"¿Cómo evitar accidentes teniendo un baño seguro?",
+                "imageDesktop":"02.png",
+                "url":"http://www.sodimac.cl/sodimac-cl/content/a1390004/como-instalar-un-wc/?cid=cgoall67815",
+                "textLink":"Conoce más",
+                "type":"A"
+             }
+          ]
+       },
+       {  
+        "title":"Nuestros expertos te esperan para concretar el diseño de tu baño",
+        "typeBlock":"BlockB",
+        "modules":[  
+           {  
+              "title":"Diseña con expertos tu baño y cocina",
+              "description":"Dinos con qué baño o cocina sueñas y nosotros lo diseñamos por ti.",
+              "imageDesktop":"03.png",
+              "imageMobile":"03_mobile.jpg",
+              "url":"http://www.sodimac.cl/sodimac-cl/content/a70178/Diseno-de-Banos-y-Cocinas",
+              "type":"B",
+              "email":"centrodeproyectos@sodimac.cl"
+           },
+           {  
+              "title":"Contrata nuestro servicios",
+              "description":"Encuentra la cerámica y/o porcelanato que más te guste y nosotros lo instalamos por ti.",
+              "imageDesktop":"04.png",
+              "imageMobile":"04_mobile.jpg",
+              "url":"http://www.sodimac.cl/sodimac-cl/content/a70185/Instalacion-de-Ceramica-y-Porcelanato",
+              "type":"C",
+              "phone":"600 600 40 20"
+           }
+        ]
+     },
+     {  
+        "title":"Simuladores de Piso y Pintura",
+        "typeBlock":"BlockC",
+        "modules":[  
+           {  
+            "imageDesktop":"05.png",
+            "imageMobile":"05_mobile.jpg",
+            "url":"http://www.sodimac.cl/sodimac-cl/RenderPisos/?cid=cgoall71552",
+            "type":"D"
+           },
+           {  
+              "imageDesktop":"06.png",
+              "imageMobile":"06_mobile.jpg",
+              "url":"http://www.sodimac.cl/sodimac-cl/CatPintura/Visualizador-de-Pinturas/?cid=cgoall71553",
+              "type":"D"
+             
+           }
+        ]
+     }
+    ]
+ }
